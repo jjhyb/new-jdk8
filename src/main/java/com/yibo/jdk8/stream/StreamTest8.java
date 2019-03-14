@@ -6,7 +6,7 @@ import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/3/1 21:10
  * @Description:
  */

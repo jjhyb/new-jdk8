@@ -3,7 +3,7 @@ package com.yibo.jdk8.optional;
 import java.util.Optional;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/2/28 15:33
  * @Description:
  */

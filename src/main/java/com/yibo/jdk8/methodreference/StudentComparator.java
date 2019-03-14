@@ -1,7 +1,7 @@
 package com.yibo.jdk8.methodreference;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/2/28 17:14
  * @Description:
  */

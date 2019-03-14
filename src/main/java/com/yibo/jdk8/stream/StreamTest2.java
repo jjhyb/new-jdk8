@@ -3,7 +3,7 @@ package com.yibo.jdk8.stream;
 import java.util.stream.IntStream;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/2/28 19:23
  * @Description:
  */

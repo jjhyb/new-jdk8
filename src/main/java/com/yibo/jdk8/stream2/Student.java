@@ -1,7 +1,7 @@
 package com.yibo.jdk8.stream2;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/3/7 20:09
  * @Description:
  */

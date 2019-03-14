@@ -3,7 +3,7 @@ package com.yibo.jdk8.domain;
 import java.util.List;
 
 /**
- * @author: wb-hyb441488
+ * @author: huangyibo
  * @Date: 2019/2/28 15:53
  * @Description:
  */
